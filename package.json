@@ -1,0 +1,14 @@
+{
+  "name": "physics-engine-swgcg352",
+  "version": "1.0.0",
+  "description": "Simple Physics Engine for Gaming",
+  "type": "module",
+  "scripts": {
+    "demo:particles": "node src/demo/particleDemo.js",
+    "demo:springs": "node src/demo/massSpringDemo.js",
+    "demo:pbd": "node src/demo/pbdDemo.js"
+  },
+  "keywords": ["physics", "game-engine", "particles"],
+  "author": "",
+  "license": "MIT"
+}
